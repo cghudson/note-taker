@@ -24,11 +24,11 @@
 
   The following GIF demonstrates the Note Taker's appearance and functionality:
 
-  ![gif of application functionallity]()
+  ![gif of application functionallity](./public/assets/images/note-taker.gif)
 
   ## Deployed Application
 
-  Click [here]() to view the deployed applicaiton on Heroku.
+  Click [here](https://carolyn-note-taker.herokuapp.com/) to view the deployed applicaiton on Heroku.
 
   ## License
 
