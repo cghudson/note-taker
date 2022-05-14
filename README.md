@@ -7,7 +7,8 @@
 
   ## Table of Contents
   * [Installation](#installation)
-  * [Usage](#usage)
+  * [Preview](#preview)
+  * [Deployed Application](#deployed-application)
   * [License](#license)
   * [Questions](#questions)
 
@@ -19,15 +20,15 @@
   npm install
 ```
 
-  ## Usage
-
-  
-
   ## Preview:
 
   The following GIF demonstrates the Note Taker's appearance and functionality:
 
   ![gif of application functionallity]()
+
+  ## Deployed Application
+
+  Click [here]() to view the deployed applicaiton on Heroku.
 
   ## License
 
