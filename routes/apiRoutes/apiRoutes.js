@@ -21,7 +21,7 @@ router.post("/notes", (req, res) => {
 });
 
 //DELETE
-router.delete("/notes:id", (req, res) => {
+router.delete("/notes/:id", (req, res) => {
   let save = [];
   for (var i = 0; i < data.length; i++) {
     if (data[i].id != req.params.id) {
